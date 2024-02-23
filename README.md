@@ -1,3 +1,3 @@
 # Bienvenue sur mon profil GitHub!
 
-![Mon Pixel Art](https://www.teahub.io/viewwp/iTTobiT_8-bit-neon-city/)
+![Mon Pixel Art](https://www.pinterest.ch/pin/584482857898839323/)
