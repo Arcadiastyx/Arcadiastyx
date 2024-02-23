@@ -1,3 +1,4 @@
 # Bienvenue sur mon profil GitHub!
 
-![Mon Pixel Art](https://www.pinterest.ch/pin/584482857898839323/)
+
+![331d344c012c1ff4307858f8c9f38706](https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/1d1ec242-db25-4c18-a6da-07e1e370ae61)
