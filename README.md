@@ -45,3 +45,11 @@
     <img src="https://skillicons.dev/icons?i=,c,cpp,html,css,vscode,github,figma,docker,notion" />
 </div>
 
+<br/>
+
+
+```
+Piscine 42 programe
+```
+
+
