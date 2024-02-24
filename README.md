@@ -8,7 +8,7 @@
 
 ```
 {
-  while(!dead)
+                                                                            while(!dead)
       eat();
       play();
       code();
