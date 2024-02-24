@@ -11,18 +11,19 @@ Cette page est en cours de construction !
       eat();
       play();
       code();
-      //sleep();
-`
+      //sleep();`
 
 
-	```
+```
 {
   "firstName": "Isaac",
   "lastName": "Naranjo",
   "age": 33
 }
 ```
-    
+
+
+
 **Mon parcours**
 
 <p>
