@@ -6,16 +6,15 @@ Cette page est en cours de construction !
   <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
 </p>
 
-<p align="center">
-  <code>
-    while(!dead) {
+
+  'while(!dead) 
+  {
       eat();
       play();
       code();
       //sleep();
-    }
-  </code>
-</p>
+  }'
+
     
 **Mon parcours**
 
