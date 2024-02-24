@@ -47,8 +47,8 @@
 
 <br/>
 
-```
-Piscine 42 programe
-```
-[click-here](https://github.com/Arcadiastyx/42-Piscine)
+
+>Current program index: 
+
+[Piscine 42 program](https://github.com/Arcadiastyx/42-Piscine)
 
