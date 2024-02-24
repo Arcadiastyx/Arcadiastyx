@@ -7,6 +7,8 @@ Cette page est en cours de construction !
 </p>
 
 
+**Mon parcours**
+
 <p>
   <a href="https://github.com/Arcadiastyx/42-Piscine/tree/main/42%20Piscine" target="_blank" style="text-decoration: none; color: blue; border: 1px solid blue; padding: 3px;">
     Piscine Overview - Click Here
