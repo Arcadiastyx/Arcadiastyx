@@ -7,13 +7,16 @@ Cette page est en cours de construction !
 </p>
 
 
-  'while(!dead) 
+	`  while(!dead) 
   {
       eat();
       play();
       code();
       //sleep();
-  }'
+  }
+`
+
+
 
     
 **Mon parcours**
