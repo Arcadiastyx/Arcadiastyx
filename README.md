@@ -8,25 +8,13 @@
 
 ```
 {
-  while(!dead) 
+  **while(!dead)** 
       eat();
       play();
       code();
       //sleep();
 }
 ```
-
-<p aligne="center">
-  <pre><code>
-  while(!dead) {
-      eat();
-      play();
-      code();
-      //sleep();
-  }
-  </code></pre>
-</p>
-
 
 
 **Mon parcours**
