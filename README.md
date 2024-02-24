@@ -14,7 +14,16 @@
 
 ⚡ Fun fact **In programming, there's a phenomenon called "Ward Cunningham's Law," which states: "The best way to get the right answer on the internet is not to ask a question, it's to post the wrong answer."**
 
- </div>
+  </div>
+ 
+<div align="center"> 
+  <a href="mailto:isaac.naranjo.e.g@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/pedro-sales-muniz" target="_blank](https://www.linkedin.com/in/isaac-naranjo/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
