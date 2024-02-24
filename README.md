@@ -6,9 +6,8 @@ Cette page est en cours de construction !
   <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
 </p>
 
-<pre><code style="background-color: #f0f0f0; padding: 10px;">
-<span style="color: yellow;">while</span>(<span style="color: red;">!dead</span>)
-{
+<pre><code>
+<span style="color: yellow;">while</span>(<span style="color: red;">!dead</span>) {
   <span style="color: blue;">eat();</span>
   <span style="color: blue;">play();</span>
   <span style="color: blue;">code();</span>
