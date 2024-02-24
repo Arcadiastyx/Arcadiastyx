@@ -31,11 +31,11 @@
 
 ```
 {
-                                                            while(!dead)
-                                                                eat();
-                                                                play();
-                                                                code();
-                                                              //sleep();
+                                                    while(!dead)
+                                                       eat();
+                                                       play();
+                                                       code();
+                                                     //sleep();
 }
 ```
 
