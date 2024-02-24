@@ -45,6 +45,13 @@
     <img src="https://skillicons.dev/icons?i=,c,cpp,html,css,vscode,github,figma,docker,notion" />
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <p>
   <a href="https://github.com/Arcadiastyx/42-Piscine/tree/main/42%20Piscine" target="_blank" style="text-decoration: none; color: blue; border: 1px solid blue; padding: 3px;">
