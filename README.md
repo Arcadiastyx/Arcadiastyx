@@ -16,7 +16,7 @@
 }
 ```
 
-<p align="center">
+<p aligne="center">
   <pre><code>
   while(!dead) {
       eat();
