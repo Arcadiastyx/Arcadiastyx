@@ -42,7 +42,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,c,cplusplus,html,css,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=,c,cpp,html,css,vscode,github,figma,docker,notion" />
 </div>
 
 
