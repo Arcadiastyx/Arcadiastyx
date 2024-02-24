@@ -18,10 +18,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-
-
 <p>
   <a href="https://github.com/Arcadiastyx/42-Piscine/tree/main/42%20Piscine" target="_blank" style="text-decoration: none; color: blue; border: 1px solid blue; padding: 3px;">
     Piscine Overview - Click Here
