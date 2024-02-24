@@ -1,7 +1,10 @@
-# Bienvenue sur mon profil GitHub......Cette page est en cours de construction !
+# Bienvenue sur mon profil GitHub
 
-![computergif](https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf)
+Cette page est en cours de construction !
 
+<p align="center">
+  <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
+</p>
 
 
 <p>
