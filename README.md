@@ -50,5 +50,14 @@
 <h2 align="left">Current program index</h2>
 
 1. [Piscine 42 program](https://github.com/Arcadiastyx/42-Piscine)
-2. [Libft c base](https://github.com/Arcadiastyx/Libft)
+2. [Libft](https://github.com/Arcadiastyx/Libft)
+3. [Printf](https://github.com/Arcadiastyx/Printf)
+4. [GetNextLine](https://github.com/Arcadiastyx/Get_next_line)
+5. [SoLong (2D-videoGame](https://github.com/Arcadiastyx/so_long-2d-game)
+6. [Minitalk - UNIX Signal](https://github.com/Arcadiastyx/Mini-Talk)
+7. [Push Swap - Sorting algorithm](https://github.com/Arcadiastyx/Push_Swap)
+8. [Cub3D - Doomlike Game]
+9. [Philosopher](https://github.com/Arcadiastyx/Philosopher)
+10. [Minishell]
+11. [CPP_modules](https://github.com/Arcadiastyx/CPP_module)
 
