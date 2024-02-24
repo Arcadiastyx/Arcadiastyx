@@ -47,7 +47,7 @@
 <br/>
 
 
-<h2 align="center">⚒ Current program index</h2>
+<h2 align="left">Current program index</h2>
 >Current program index: 
 
 [Piscine 42 program](https://github.com/Arcadiastyx/42-Piscine)
