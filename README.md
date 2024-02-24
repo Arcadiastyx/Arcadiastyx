@@ -47,8 +47,8 @@
 
 <br/>
 
-~ ~ ~
+```
 Piscine 42 programe
-~ ~ ~
+```
 
 
