@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Bash, C , C++ , Docker ,**
 
-⚡ Fun fact **In programming, there's a phenomenon called "Ward Cunningham's Law," which states: "The best way to get the right answer on the internet is not to ask a question, it's to post the wrong answer."**
+⚡ Fun fact **There's a phenomenon called "Ward Cunningham's Law," which states: "The best way to get the right answer on the internet is not to ask a question, it's to post the wrong answer."**
 
   </div>
  
