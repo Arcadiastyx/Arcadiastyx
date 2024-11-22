@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Isaac+Naranjo!!!;" />
 </h1>
 
-<h3 align="center"><u>Un développeur passionné de Suisse 🇨🇭</u></h3>
+<h3 align="center"><u>Un développeur passionné de Suisse</u></h3>
 
 <div align="center">
     <p>
