@@ -113,3 +113,72 @@
 - ✅ Terminé
 - 🔄 En cours
 - 📝 À venir
+
+---
+
+🌐 Solutions Web
+<table align="center">
+    <tr>
+        <th>Catégorie</th>
+        <th>Technologies</th>
+        <th>Projets</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td rowspan="2">Frontend</td>
+        <td>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        </td>
+        <td><a href="#">Portfolio Personnel</a></td>
+        <td>Site web personnel présentant mes projets et compétences</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        </td>
+        <td><a href="#">Applications Web</a></td>
+        <td>Collection d'applications web interactives</td>
+    </tr>
+    <tr>
+        <td>Backend</td>
+        <td>
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+            <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+        </td>
+        <td><a href="#">API REST</a></td>
+        <td>Services web et APIs pour applications diverses</td>
+    </tr>
+    <tr>
+        <td>Base de données</td>
+        <td>
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        </td>
+        <td><a href="#">Gestion de Données</a></td>
+        <td>Solutions de stockage et gestion de données</td>
+    </tr>
+    <tr>
+        <td>DevOps</td>
+        <td>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+        </td>
+        <td><a href="#">Infrastructure</a></td>
+        <td>Configuration et déploiement d'applications</td>
+    </tr>
+</table>
+🚀 Projets en cours
+
+Application web de gestion de tâches (React + Node.js)
+Site e-commerce avec panier dynamique
+Dashboard administrateur avec analyses en temps réel
+
+📈 Objectifs d'apprentissage
+
+ TypeScript
+ Next.js
+ Tests unitaires et d'intégration
+ AWS Cloud Services
+ CI/CD avancé
