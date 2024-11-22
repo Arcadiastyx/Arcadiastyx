@@ -8,6 +8,7 @@
     <p>
         🔄 En reconversion professionnelle<br>
         🎓 Étudiant à <strong>l'École 42</strong><br>
+        
         💡 Citation favorite: <em>"La meilleure façon d'obtenir la bonne réponse sur Internet n'est pas de poser une question, mais de poster la mauvaise réponse."</em> - Loi de Ward Cunningham
     </p>
 </div>
