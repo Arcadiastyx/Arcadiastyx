@@ -171,7 +171,7 @@
 </table>
 🚀 Projets en cours
 
-Application web de gestion de tâches (React + Node.js)
+Application web static + full stack
 Site e-commerce avec panier dynamique
 Dashboard administrateur avec analyses en temps réel
 
