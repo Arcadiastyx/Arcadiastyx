@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center">https://github.com/Arcadiastyx/Arcadiastyx/blob/main/README.md
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Isaac+Naranjo!!!;" />
 </h1>
 
@@ -26,7 +26,6 @@
 </p>
 
 <h2 align="center">🎯 Compétences Techniques (Hard Skills)</h2>
----
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcadiastyx&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Languages stats"/>
