@@ -25,14 +25,6 @@
     <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
 </p>
 
-```cpp
-while(!dead) {
-    eat();
-    play();
-    code();
-    //sleep();
-}
-```
 
 ## 🛠️ Technologies et Outils
 
