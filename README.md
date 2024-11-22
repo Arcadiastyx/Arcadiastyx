@@ -26,6 +26,7 @@
 </p>
 
 <h2 align="center">🎯 Compétences Techniques (Hard Skills)</h2>
+---
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcadiastyx&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Languages stats"/>
