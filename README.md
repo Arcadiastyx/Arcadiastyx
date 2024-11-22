@@ -25,6 +25,66 @@
     <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
 </p>
 
+## 🎯 Compétences Techniques (Hard Skills)
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcadiastyx&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Languages stats"/>
+</div>
+
+### 💻 Programmation
+<table>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+            <br/>Maîtrise approfondie des fondamentaux
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+            <br/>POO et concepts avancés
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+            <br/>Scripting et automatisation
+        </td>
+    </tr>
+</table>
+
+### 🖥️ Systèmes et Réseaux
+- **OS**: Expertise UNIX/Linux
+- **Process**: Gestion avancée des processus et multithreading
+- **Memory**: Programmation bas niveau et gestion mémoire
+- **Network**: Architecture TCP/IP, protocoles réseau
+- **Signals**: Communication inter-processus UNIX
+
+### 🧮 Algorithmes et Structures de Données
+```mermaid
+graph LR
+    A[Algorithmes] --> B[Tri]
+    A --> C[Recherche]
+    A --> D[Optimisation]
+    E[Structures] --> F[Listes]
+    E --> G[Arbres]
+    E --> H[Piles/Files]
+```
+- Analyse de complexité (Big O)
+- Optimisation des performances
+- Implémentation de structures personnalisées
+
+### 🛠️ Développement de Logiciels
+- **Bibliothèques**: Création et maintenance (libft)
+- **Systèmes**: Shell UNIX, serveurs web
+- **Games**: Moteurs 2D/3D, ray-casting
+- **Architecture**: Design patterns et bonnes pratiques
+
+### ⚙️ Outils et Environnements
+<div align="center">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
 
 ## 🛠️ Technologies et Outils
 
