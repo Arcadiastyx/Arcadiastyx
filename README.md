@@ -1,8 +1,8 @@
-<h1 align="center">https://github.com/Arcadiastyx/Arcadiastyx/blob/main/README.md
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Isaac+Naranjo!!!;" />
 </h1>
 
-<h3 align="center">Un développeur passionné de Suisse 🇨🇭</h3>
+<h3 align="center"><u>Un développeur passionné de Suisse 🇨🇭</u></h3>
 
 <div align="center">
     <p>
@@ -25,13 +25,15 @@
     <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
 </p>
 
-<h2 align="center">🎯 Compétences Techniques (Hard Skills)</h2>
+<h2 align="center"><u>🎯 Compétences Techniques (Hard Skills)</u></h2>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcadiastyx&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Languages stats"/>
 </div>
 
-<h3 align="center">💻 Programmation</h3>
+<h3 align="center"><u>💻 Programmation</u></h3>
+
+<div align="center">
 <table>
     <tr>
         <td>
@@ -49,16 +51,21 @@
         </td>
     </tr>
 </table>
+</div>
 
-<h3 align="center">🖥️ Systèmes et Réseaux</h3>
+<h3 align="center"><u>🖥️ Systèmes et Réseaux</u></h3>
 
-- **OS**: Expertise UNIX/Linux
-- **Process**: Gestion avancée des processus et multithreading
-- **Memory**: Programmation bas niveau et gestion mémoire
-- **Network**: Architecture TCP/IP, protocoles réseau
-- **Signals**: Communication inter-processus UNIX
+<div align="center">
+    <p><strong>OS</strong>: Expertise UNIX/Linux</p>
+    <p><strong>Process</strong>: Gestion avancée des processus et multithreading</p>
+    <p><strong>Memory</strong>: Programmation bas niveau et gestion mémoire</p>
+    <p><strong>Network</strong>: Architecture TCP/IP, protocoles réseau</p>
+    <p><strong>Signals</strong>: Communication inter-processus UNIX</p>
+</div>
 
-<h3 align="center">🧮 Algorithmes et Structures de Données</h3>
+<h3 align="center"><u>🧮 Algorithmes et Structures de Données</u></h3>
+
+<div align="center">
 
 ```mermaid
 graph LR
@@ -69,18 +76,22 @@ graph LR
     E --> G[Arbres]
     E --> H[Piles/Files]
 ```
-- Analyse de complexité (Big O)
-- Optimisation des performances
-- Implémentation de structures personnalisées
 
-<h3 align="center">🛠️ Développement de Logiciels</h3>
+<p>Analyse de complexité (Big O)</p>
+<p>Optimisation des performances</p>
+<p>Implémentation de structures personnalisées</p>
+</div>
 
-- **Bibliothèques**: Création et maintenance (libft)
-- **Systèmes**: Shell UNIX, serveurs web
-- **Games**: Moteurs 2D/3D, ray-casting
-- **Architecture**: Design patterns et bonnes pratiques
+<h3 align="center"><u>🛠️ Développement de Logiciels</u></h3>
 
-<h3 align="center">⚙️ Outils et Environnements</h3>
+<div align="center">
+    <p><strong>Bibliothèques</strong>: Création et maintenance (libft)</p>
+    <p><strong>Systèmes</strong>: Shell UNIX, serveurs web</p>
+    <p><strong>Games</strong>: Moteurs 2D/3D, ray-casting</p>
+    <p><strong>Architecture</strong>: Design patterns et bonnes pratiques</p>
+</div>
+
+<h3 align="center"><u>⚙️ Outils et Environnements</u></h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,13 +101,13 @@ graph LR
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-<h2 align="center">🛠️ Technologies et Outils</h2>
+<h2 align="center"><u>🛠️ Technologies et Outils</u></h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,github,figma,docker,notion" />
 </div>
 
-<h2 align="center">📚 Parcours 42 - Progression</h2>
+<h2 align="center"><u>📚 Parcours 42 - Progression</u></h2>
 
 <table align="center">
     <tr>
@@ -173,12 +184,14 @@ graph LR
     </tr>
 </table>
 
-### Légende
-- ✅ Terminé
-- 🔄 En cours
-- 📝 À venir
+<div align="center">
+<h3 align="center"><u>Légende</u></h3>
+<p>✅ Terminé</p>
+<p>🔄 En cours</p>
+<p>📝 À venir</p>
+</div>
 
-<h2 align="center">🌐 Solutions Web</h2>
+<h2 align="center"><u>🌐 Solutions Web</u></h2>
 
 <table align="center">
     <tr>
@@ -233,16 +246,20 @@ graph LR
     </tr>
 </table>
 
-<h3 align="center">🚀 Projets en cours</h3>
+<h3 align="center"><u>🚀 Projets en cours</u></h3>
 
-- Application web static + full stack
-- Site e-commerce avec panier dynamique
-- Dashboard administrateur avec analyses en temps réel
+<div align="center">
+    <p>Application web static + full stack</p>
+    <p>Site e-commerce avec panier dynamique</p>
+    <p>Dashboard administrateur avec analyses en temps réel</p>
+</div>
 
-<h3 align="center">📈 Objectifs d'apprentissage</h3>
+<h3 align="center"><u>📈 Objectifs d'apprentissage</u></h3>
 
-- TypeScript
-- Next.js
-- Tests unitaires et d'intégration
-- AWS Cloud Services
-- CI/CD avancé
+<div align="center">
+    <p>TypeScript</p>
+    <p>Next.js</p>
+    <p>Tests unitaires et d'intégration</p>
+    <p>AWS Cloud Services</p>
+    <p>CI/CD avancé</p>
+</div>
