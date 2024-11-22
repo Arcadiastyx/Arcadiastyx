@@ -6,8 +6,8 @@
 
 <div align="center">
     <p>
+        🔄 En reconversion professionnelle<br>
         🎓 Étudiant à <strong>l'École 42</strong><br>
-        💻 En formation: <strong>Bash, C, C++, Docker</strong><br>
         💡 Citation favorite: <em>"La meilleure façon d'obtenir la bonne réponse sur Internet n'est pas de poser une question, mais de poster la mauvaise réponse."</em> - Loi de Ward Cunningham
     </p>
 </div>
@@ -25,13 +25,13 @@
     <img src="https://github.com/Arcadiastyx/Arcadiastyx/assets/72890174/a754d3a1-5617-46b5-b2fd-fe45ed0872cf" alt="computergif"/>
 </p>
 
-## 🎯 Compétences Techniques (Hard Skills)
+<h2 align="center">🎯 Compétences Techniques (Hard Skills)</h2>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcadiastyx&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Languages stats"/>
 </div>
 
-### 💻 Programmation
+<h3 align="center">💻 Programmation</h3>
 <table>
     <tr>
         <td>
@@ -50,14 +50,16 @@
     </tr>
 </table>
 
-### 🖥️ Systèmes et Réseaux
+<h3 align="center">🖥️ Systèmes et Réseaux</h3>
+
 - **OS**: Expertise UNIX/Linux
 - **Process**: Gestion avancée des processus et multithreading
 - **Memory**: Programmation bas niveau et gestion mémoire
 - **Network**: Architecture TCP/IP, protocoles réseau
 - **Signals**: Communication inter-processus UNIX
 
-### 🧮 Algorithmes et Structures de Données
+<h3 align="center">🧮 Algorithmes et Structures de Données</h3>
+
 ```mermaid
 graph LR
     A[Algorithmes] --> B[Tri]
@@ -71,13 +73,15 @@ graph LR
 - Optimisation des performances
 - Implémentation de structures personnalisées
 
-### 🛠️ Développement de Logiciels
+<h3 align="center">🛠️ Développement de Logiciels</h3>
+
 - **Bibliothèques**: Création et maintenance (libft)
 - **Systèmes**: Shell UNIX, serveurs web
 - **Games**: Moteurs 2D/3D, ray-casting
 - **Architecture**: Design patterns et bonnes pratiques
 
-### ⚙️ Outils et Environnements
+<h3 align="center">⚙️ Outils et Environnements</h3>
+
 <div align="center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -86,13 +90,13 @@ graph LR
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-## 🛠️ Technologies et Outils
+<h2 align="center">🛠️ Technologies et Outils</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,github,figma,docker,notion" />
 </div>
 
-## 📚 Parcours 42 - Progression
+<h2 align="center">📚 Parcours 42 - Progression</h2>
 
 <table align="center">
     <tr>
@@ -174,9 +178,8 @@ graph LR
 - 🔄 En cours
 - 📝 À venir
 
----
+<h2 align="center">🌐 Solutions Web</h2>
 
-🌐 Solutions Web
 <table align="center">
     <tr>
         <th>Catégorie</th>
@@ -229,16 +232,17 @@ graph LR
         <td>Configuration et déploiement d'applications</td>
     </tr>
 </table>
-🚀 Projets en cours
 
-Application web static + full stack
-Site e-commerce avec panier dynamique
-Dashboard administrateur avec analyses en temps réel
+<h3 align="center">🚀 Projets en cours</h3>
 
-📈 Objectifs d'apprentissage
+- Application web static + full stack
+- Site e-commerce avec panier dynamique
+- Dashboard administrateur avec analyses en temps réel
 
- TypeScript
- Next.js
- Tests unitaires et d'intégration
- AWS Cloud Services
- CI/CD avancé
+<h3 align="center">📈 Objectifs d'apprentissage</h3>
+
+- TypeScript
+- Next.js
+- Tests unitaires et d'intégration
+- AWS Cloud Services
+- CI/CD avancé
