@@ -2,13 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Isaac+Naranjo!!!;" />
 </h1>
 
-<h3 align="center"><u>Un développeur passionné, poussé par la curiosité de comprendre les rouages d'un outil qui façonne notre avenir</u></h3>
+<h3 align="center"><u>Un développeur, poussé par la curiosité de comprendre les rouages d'un outil qui façonne notre avenir</u></h3>
 
 <div align="center">
     <p>
         🔄 En reconversion professionnelle<br>
         🎓 Étudiant à <strong>l'École 42</strong><br>
-        
         💡 Citation favorite: <em>"La meilleure façon d'obtenir la bonne réponse sur Internet n'est pas de poser une question, mais de poster la mauvaise réponse."</em> - Loi de Ward Cunningham
     </p>
 </div>
