@@ -164,7 +164,7 @@ graph LR
     <tr>
         <td>Minishell</td>
         <td>Création d'un shell basique</td>
-        <td>📝</td>
+        <td>✅</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Arcadiastyx/CPP_module">CPP Modules</a></td>
