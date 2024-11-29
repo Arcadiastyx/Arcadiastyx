@@ -172,12 +172,12 @@ graph LR
         <td>✅</td>
     </tr>
     <tr>
-        <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_irc</a></td>
+        <td><a href="https://github.com/42-Student-Teams/ft_irc">ft_irc</a></td>
         <td>Serveur IRC (Internet Relay Chat)</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_transcendence</a></td>
+        <td><a href="https://github.com/42-Student-Teams/ft_transcendence">ft_transcendence</a></td>
         <td>Introduction au développement web full stack</td>
         <td>✅</td>
     </tr>
