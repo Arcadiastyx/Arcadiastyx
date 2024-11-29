@@ -109,92 +109,82 @@ graph LR
 
 <h2 align="center"><u>📚 Parcours 42 - Progression</u></h2>
 
+Voici le tableau modifié sans la colonne "Niveau" :
+
+
 <table align="center">
     <tr>
-        <th>Niveau</th>
         <th>Projet</th>
         <th>Description</th>
         <th>Status</th>
     </tr>
     <tr>
-        <td>00</td>
         <td><a href="https://github.com/Arcadiastyx/42-Piscine">Piscine</a></td>
         <td>Introduction intensive à la programmation</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>01</td>
         <td><a href="https://github.com/Arcadiastyx/Libft">Libft</a></td>
         <td>Création de sa propre bibliothèque C</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>02</td>
         <td><a href="https://github.com/Arcadiastyx/Printf">Printf</a></td>
         <td>Recréation de la fonction printf</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>02</td>
         <td><a href="https://github.com/Arcadiastyx/Get_next_line">Get Next Line</a></td>
         <td>Lecture de fichier ligne par ligne</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>03</td>
         <td><a href="https://github.com/Arcadiastyx/so_long-2d-game">So Long</a></td>
         <td>Création d'un jeu 2D simple</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>03</td>
         <td><a href="https://github.com/Arcadiastyx/Mini-Talk">Minitalk</a></td>
         <td>Communication entre processus via signaux UNIX</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>03</td>
         <td><a href="https://github.com/Arcadiastyx/Push_Swap">Push Swap</a></td>
         <td>Algorithme de tri avec deux piles</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>04</td>
         <td>Cub3D</td>
         <td>Moteur de ray-casting style Doom</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>04</td>
         <td><a href="https://github.com/Arcadiastyx/Philosopher">Philosophers</a></td>
         <td>Problème des philosophes (threads)</td>
         <td>✅</td>
     </tr>
     <tr>
-        <td>05</td>
         <td>Minishell</td>
         <td>Création d'un shell basique</td>
         <td>📝</td>
     </tr>
     <tr>
-        <td>05-06</td>
         <td><a href="https://github.com/Arcadiastyx/CPP_module">CPP Modules</a></td>
         <td>Introduction à C++</td>
         <td>✅</td>
     </tr>
-     <tr>
-        <td>07</td>
+    <tr>
         <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_irc</a></td>
-        <td> serveur IRC (Internet Relay Chat) </td>
+        <td>Serveur IRC (Internet Relay Chat)</td>
         <td>✅</td>
     </tr>
-     <tr>
-        <td>08</td>
+    <tr>
         <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_transcendence</a></td>
-        <td>introduction au développement web full stack</td>
+        <td>Introduction au développement web full stack</td>
         <td>✅</td>
     </tr>
 </table>
+```
 
 <div align="center">
 <h3 align="center"><u>Légende</u></h3>
