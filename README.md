@@ -162,7 +162,7 @@ graph LR
         <td>04</td>
         <td>Cub3D</td>
         <td>Moteur de ray-casting style Doom</td>
-        <td>🔄</td>
+        <td>✅</td>
     </tr>
     <tr>
         <td>04</td>
@@ -185,7 +185,13 @@ graph LR
      <tr>
         <td>07</td>
         <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_irc</a></td>
-        <td>Introduction à C++</td>
+        <td> serveur IRC (Internet Relay Chat) </td>
+        <td>✅</td>
+    </tr>
+     <tr>
+        <td>08</td>
+        <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_transcendence</a></td>
+        <td>introduction au développement web full stack</td>
         <td>✅</td>
     </tr>
 </table>
