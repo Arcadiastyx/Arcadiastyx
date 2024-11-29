@@ -180,7 +180,13 @@ graph LR
         <td>05-06</td>
         <td><a href="https://github.com/Arcadiastyx/CPP_module">CPP Modules</a></td>
         <td>Introduction à C++</td>
-        <td>🔄</td>
+        <td>✅</td>
+    </tr>
+     <tr>
+        <td>07</td>
+        <td><a href="[https://github.com/Arcadiastyx/CPP_module](https://github.com/42-Student-Teams/ft_irc)">ft_irc</a></td>
+        <td>Introduction à C++</td>
+        <td>✅</td>
     </tr>
 </table>
 
