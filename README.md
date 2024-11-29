@@ -109,8 +109,6 @@ graph LR
 
 <h2 align="center"><u>📚 Parcours 42 - Progression</u></h2>
 
-Voici le tableau modifié sans la colonne "Niveau" :
-
 
 <table align="center">
     <tr>
