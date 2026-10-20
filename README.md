@@ -25,8 +25,6 @@ $ fortune
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Arcadiastyx&style=flat-square&color=00FF9C&label=Visites+du+profil" alt="Visites" />
-
 </div>
 
 <p align="center">
